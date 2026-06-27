@@ -1,0 +1,24 @@
+{
+  "id": "miami-reborn",
+  "mapSlug": "miami",
+  "name": "Miami Reborn",
+  "description": "Miami map running on the Reborn WebGL build.",
+  "thumbnailUrl": "https://ss.tavvkkj.xyz/game-assets/thumbnails/miami.jpg",
+  "dataParts": [
+    "Build/reborn-protected-build-20260627-154716.data.part001",
+    "Build/reborn-protected-build-20260627-154716.data.part002",
+    "Build/reborn-protected-build-20260627-154716.data.part003",
+    "Build/reborn-protected-build-20260627-154716.data.part004",
+    "Build/reborn-protected-build-20260627-154716.data.part005",
+    "Build/reborn-protected-build-20260627-154716.data.part006"
+  ],
+  "frameworkUrl": "Build/reborn-protected-build-20260627-154716.framework.js",
+  "codeUrl": "Build/reborn-protected-build-20260627-154716.wasm",
+  "wasmFrameworkUrl": "Build/reborn-protected-build-20260627-154716.framework.js",
+  "wasmCodeUrl": "Build/reborn-protected-build-20260627-154716.wasm",
+  "loaderUrl": "Build/reborn-protected-build-20260627-154716.loader.js",
+  "streamingAssetsUrl": "StreamingAssets",
+  "companyName": "Kiloo Games",
+  "productName": "Subway Surf",
+  "productVersion": "1.105.0"
+}
