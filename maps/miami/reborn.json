@@ -1,25 +1,25 @@
 {
-  "id": "miami-reborn",
-  "buildVersion": "20260627-232439-e64667a9b605-884663598f68",
-  "mapSlug": "miami",
-  "name": "Miami Reborn",
-  "description": "Miami map running on the Reborn WebGL build.",
-  "thumbnailUrl": "https://ss.tavvkkj.xyz/game-assets/thumbnails/miami.jpg",
-  "dataParts": [
-    "Build/miami.data.part001",
-    "Build/miami.data.part002",
-    "Build/miami.data.part003",
-    "Build/miami.data.part004",
-    "Build/miami.data.part005",
-    "Build/miami.data.part006"
-  ],
-  "frameworkUrl": "Build/miami.framework.js",
-  "codeUrl": "Build/miami.wasm",
-  "wasmFrameworkUrl": "Build/miami.framework.js",
-  "wasmCodeUrl": "Build/miami.wasm",
-  "loaderUrl": "Build/miami.loader.js",
-  "streamingAssetsUrl": "StreamingAssets",
-  "companyName": "Kiloo Games",
-  "productName": "Subway Surf",
-  "productVersion": "1.105.0"
+    "id":  "miami-reborn",
+    "buildVersion":  "20260627-235238-47635bc30a01-ca92c80915bb",
+    "mapSlug":  "miami",
+    "name":  "Miami Reborn",
+    "description":  "Miami map running on the Reborn WebGL build.",
+    "thumbnailUrl":  "https://ss.tavvkkj.xyz/game-assets/thumbnails/miami.jpg",
+    "dataParts":  [
+                      "Build/miami.data.part001",
+                      "Build/miami.data.part002",
+                      "Build/miami.data.part003",
+                      "Build/miami.data.part004",
+                      "Build/miami.data.part005",
+                      "Build/miami.data.part006"
+                  ],
+    "frameworkUrl":  "Build/miami.framework.js",
+    "codeUrl":  "Build/miami.wasm",
+    "wasmFrameworkUrl":  "Build/miami.framework.js",
+    "wasmCodeUrl":  "Build/miami.wasm",
+    "loaderUrl":  "Build/miami.loader.js",
+    "streamingAssetsUrl":  "StreamingAssets",
+    "companyName":  "Kiloo Games",
+    "productName":  "Subway Surf",
+    "productVersion":  "1.105.0"
 }
