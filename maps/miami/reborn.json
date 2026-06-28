@@ -1,6 +1,6 @@
-{
+﻿{
     "id":  "miami-reborn",
-    "buildVersion":  "20260628-123159-46727138406a-8447c06e6454",
+    "buildVersion":  "20260628-125401-55be6ebf5e41-51760f75b821",
     "mapSlug":  "miami",
     "name":  "Miami Reborn",
     "description":  "Miami map running on the Reborn WebGL build.",
@@ -10,8 +10,7 @@
                       "Build/miami.data.part002",
                       "Build/miami.data.part003",
                       "Build/miami.data.part004",
-                      "Build/miami.data.part005",
-                      "Build/miami.data.part006"
+                      "Build/miami.data.part005"
                   ],
     "frameworkUrl":  "Build/miami.framework.js",
     "codeUrl":  "Build/miami.wasm",
