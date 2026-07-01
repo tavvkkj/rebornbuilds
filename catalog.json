@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27",
+  "updatedAt": "2026-07-01",
   "builds": [
     {
       "id": "miami-reborn",
@@ -9,6 +9,14 @@
       "description": "Miami map running on the Reborn WebGL build.",
       "manifestUrl": "maps/miami/reborn.json",
       "thumbnailUrl": "https://ss.tavvkkj.xyz/game-assets/thumbnails/miami.jpg"
+    },
+    {
+      "id": "transylvania-reborn",
+      "mapSlug": "transylvania",
+      "name": "Transylvania Reborn",
+      "description": "Transylvania map running on the Reborn WebGL build.",
+      "manifestUrl": "maps/transylvania/reborn.json",
+      "thumbnailUrl": "https://ss.tavvkkj.xyz/game-assets/thumbnails/transylvania.jpg"
     }
   ]
 }

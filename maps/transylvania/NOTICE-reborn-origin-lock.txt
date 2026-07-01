@@ -1,0 +1,3 @@
+Reborn WebGL build
+Licensed origins: https://ss.tavvkkj.xyz and local development on port 49371.
+The runtime gate is enforced in the Unity player and requires a signed boot token in production.
