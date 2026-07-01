@@ -1,7 +1,7 @@
-{
+﻿{
     "id":  "transylvania-reborn",
-    "buildVersion":  "20260701-133525-2af68e8c1e9f-a8fb0fa49515",
-    "assetVersion":  "20260701-133525-2af68e8c1e9f-a8fb0fa49515",
+    "buildVersion":  "20260701-142520-2da81b0f6071-a8fb0fa49515",
+    "assetVersion":  "20260701-142520-2da81b0f6071-a8fb0fa49515",
     "mapSlug":  "transylvania",
     "name":  "Transylvania Reborn",
     "description":  "Transylvania map running on the Reborn WebGL build.",
